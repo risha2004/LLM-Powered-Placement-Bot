@@ -41,7 +41,7 @@ ai_chatbot/
 ├── README.md                  # Project README
 └── .env                       # Environment variables (not committed)
 
-## 🧪 Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
