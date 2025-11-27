@@ -1,0 +1,33 @@
+# Environment variables
+.env
+
+# Firebase / API keys / credentials
+serviceAccountKey.json
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+.venv/
+venv/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python egg / wheel / distribution files
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
