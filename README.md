@@ -45,7 +45,7 @@ ai_chatbot/
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/ai-placement-helper.git
+git clone https://github.com/risha2004/ai-placement-helper.git
 cd ai-placement-helper
 
 ### 2. Create environment
